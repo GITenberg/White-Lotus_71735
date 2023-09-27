@@ -1,0 +1,30 @@
+_repo: White-Lotus_71735
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Fornaro, Carlo de
+    alias: De Fornaro, Carlo
+    birthdate: 1871
+    deathdate: 1949
+    gutenberg_agent_id: '49005'
+    url: http://www.gutenberg.org/2009/agents/49005
+description: ''
+gutenberg_issued: '2023-09-26'
+identifiers:
+  gutenberg: '71735'
+language: en
+pgterms:marc904: https://archive.org/details/whitelotuslegend00forn/page/n19/mode/2up
+pgterms:marc905: 20200515174157defornaro
+pgterms:marc906: '1901'
+pgterms:marc907: US
+production_note: Charlene Taylor and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive/American
+  Libraries.)
+publication_note: '  $aNew York :$bMarcus & Co., jewelers, $c1901.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: White Lotus
+url: http://www.gutenberg.org/ebooks/71735
