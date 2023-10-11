@@ -1,5 +1,8 @@
 _repo: White-Lotus_71735
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71735-h/images/cover.jpg
 creator:
   author:
     agent_name: Fornaro, Carlo de
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '49005'
     url: http://www.gutenberg.org/2009/agents/49005
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71735#White-Lotus
 gutenberg_issued: '2023-09-26'
 identifiers:
   gutenberg: '71735'
